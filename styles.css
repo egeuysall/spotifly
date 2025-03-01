@@ -1,4 +1,4 @@
-container {
+.container {
   width: 100vw;
   height: 100vh;
   display: flex;
@@ -6,7 +6,7 @@ container {
   justify-content: center;
 }
 
-heading {
+.heading {
   font-size: 5rem;
   font-family: sans-serif;
 }
